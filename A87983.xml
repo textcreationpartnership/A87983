@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Lord Mayor, aldermen and Common Councell of the City of London; in answer to a letter from the L. Generall, and the armies seizing and carrying away great summes of money from Weavers Hall, and Goldmsiths Hall; and an accompt what that money was for. And a fight at sea, certain ships lying before Portsmouth, and the last remarkable news from the Earle of Warwick. Also a warrant from the Lord Generall, to the aldermen and deputies of the respective wards within the City of London; and the proceedings thereupon.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87983</idno>
+            <idno type="STC">Wing L1531</idno>
+            <idno type="STC">Thomason E475_39</idno>
+            <idno type="STC">ESTC R205461</idno>
+            <idno type="EEBO-CITATION">99864834</idno>
+            <idno type="PROQUEST">99864834</idno>
+            <idno type="VID">162490</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162490)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Lord Mayor, aldermen and Common Councell of the City of London; in answer to a letter from the L. Generall, and the armies seizing and carrying away great summes of money from Weavers Hall, and Goldmsiths Hall; and an accompt what that money was for. And a fight at sea, certain ships lying before Portsmouth, and the last remarkable news from the Earle of Warwick. Also a warrant from the Lord Generall, to the aldermen and deputies of the respective wards within the City of London; and the proceedings thereupon.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Dec: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Monica Tsuneishi</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Monica Tsuneishi</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162490:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The <hi>Lord Mayor, Aldermen,</hi> and <hi>Common Councell</hi> of the City of <hi>LONDON;</hi> In anſwer to a Letter from the L. <hi>Generall,</hi> and the Armies ſeizing and carrying away great ſummes of money from Weavers Hall, and Goldſmiths Hall; and an accompt what that money was for.</p>
+            <p>AND A fight at Sea, certain ſhips lying before Portſmouth, and the laſt remarkable News from the <hi>Earle of Warwick.</hi>
+            </p>
+            <p>ALSO A Warrant from the Lord Generall, to the Alder<g ref="char:EOLhyphen"/>men and Deputies of the reſpective Wards within the City of London; and the Proceedings thereupon.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>A. R.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162490:2"/>
+            <pb facs="tcp:162490:2"/>
+            <head>A Letter from his Excellency the Lord Generall to the Lord Mayor of London.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Have given Order to Col. <hi>Dean</hi> and ſome others, to ſeize the Treaſuries in Goldſmiths-Hall and Wea<g ref="char:EOLhyphen"/>vers-Hall, that by the ſaid Moneys I may be inabled to pay quarters whileſt we lie hereabouts; having alſo Ordered Receipts and Aſſurance to be given to the Trea<g ref="char:EOLhyphen"/>ſurers of the ſaid moneys, that they ſhould be fully reim<g ref="char:EOLhyphen"/>burſt for the ſaid ſums out of the Aſſeſſements of the Ci<g ref="char:EOLhyphen"/>ty due to the Army, and out of other Aſſeſſements there<g ref="char:EOLhyphen"/>unto belonging; and indeed, although I am unwilling to take theſe ſtrict courſes, yet having ſent ſo often to you for the ſaid Arreares, and deſired ſums of money to be advanced by you, far ſhort of the ſums due from you, yet I have been delayed and denyed, to the hazard of the Army, and the prejudice of others in the Suburbs upon whom they are quartered; whereof I thought fit to ſend ſome Forces into the City to quarter there, untill I may be ſatisfied the Arreares due unto the Army: and if this ſeem ſtrange onto you, 'tis no leſſe then that our Forces have been Ordered to do by the Parliament, in the ſeve<g ref="char:EOLhyphen"/>rall Counties of the Kingdome where Aſſeſſement have not been paid, and there to continue untill they have been paid: And here give me leave to tell you, the Counties of the Kingdome have born Free-quarter, and that in a great meaſure, for want of your paying your Arreares e<g ref="char:EOLhyphen"/>qually with them; wherefore theſe waies, if they diſlike you, yet they are meerly long of your ſelves, and are of as great regret to me and to the Army, as to your ſelves, we wiſhing not onely the good and proſperity of your
+<pb facs="tcp:162490:3"/> City, but that things may be ſo carried towards you, as may give you no cauſe of jealouſie: I thought fit to let you know, That if you ſhall take a ſpeedy courſe to ſup<g ref="char:EOLhyphen"/>ply us with 40000. l. forthwith, according to my former deſire, and provide ſpeedily what alſo is in Arrear, I ſhall not onely cauſe the moneys in the Treaſuries to be not made uſe of, but leave them to be diſpoſed of as of right they might, and alſo cauſe my Forces to be withdrawn from being in any ſort troubleſome or chargeable to the City; And let the world (judge whether this be not juſt and equall dealing with you. I reſt, My Lord,</p>
+            <closer>
+               <dateline>
+                  <hi>Weſtminſter,</hi> 
+                  <date>8 <hi>Dec.</hi> 1648.</date>
+               </dateline>
+               <signed>Your affectionate Servant, T. FAIRFAX.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <head>His Excellencies Order for ſeizing the publike Treaſuries in Goldſmiths, VVeavers and Haberdaſhers Hall.</head>
+            <p>VVHereas the Arreares of the City to the Army being near an Hundred thouſand pounds, and upon the ſecurity of them, there being but Forty thou<g ref="char:EOLhyphen"/>ſand demanded by us, to be advanced by the Lord Ma<g ref="char:EOLhyphen"/>jor, Aldermen and Common-Councell for the preſent ſupply of the Army, yet the ſame hath been now for a week delayed, and at laſt refuſed: And whereas to avoid the grievance of Free-quarter, and inconveniency of quartering Souldiers at private mens houſes, the Forces in theſe Suburbs having for the week paſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n kept in void houſes, Inns, and the like, without trouble to pri<g ref="char:EOLhyphen"/>vate Families, or Free-quartering to any; and that the extreme neceſſity of the Forces before <hi>Pontefract</hi> may be ſupplied, you or any one or more of you are hereby re<g ref="char:EOLhyphen"/>quired, with the aſſiſtance of ſuch Forces as ſhall be need<g ref="char:EOLhyphen"/>full, to march into the City of <hi>London,</hi> and there to ſeize
+<pb facs="tcp:162490:3"/> upon all ſuch ſums of Money as you ſhall find in the pub<g ref="char:EOLhyphen"/>lique Treaſury at Goldſmiths-Hall, Haberdaſhers-Hall, and Weavers-Hall, or in any of them, giving to the Kee<g ref="char:EOLhyphen"/>pers of the ſaid Treaſuries reſpectively, receipts under your or one of your hands for the Sums, or number and proportion of Bags ſo ſeized; All which Sums you or a<g ref="char:EOLhyphen"/>ny one of you are to cauſe forthwith to be conveyed in<g ref="char:EOLhyphen"/>to Blackfryers, there to be diſpoſed of for the end afore<g ref="char:EOLhyphen"/>ſaid, as ſhall be further directed by his Excellency the Lord Generall; and you are to acquaint the Treaſurers or keepers of th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid Treaſuries, that they repairing to morrow or on Munday next to the Head-quarters, ſhall have aſſurance of their payment of the reſpective ſums ſo ſeized, out of the Arreares of the City, or the Aſſeſſe<g ref="char:EOLhyphen"/>ments of the Army.</p>
+         </div>
+         <div type="warrant">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Lord Generalls Warrant ſent to the City to provide Beds and Bedding.</head>
+                  <p>WHereas (for the avoiding the inconveniencies of quartering Souldiers upon private mens houſes) it is intended and deſired, that the Army ſhall be lodged in great and void houſes, while it ſhall continue in and a<g ref="char:EOLhyphen"/>bout the City of <hi>London;</hi> to the end therefore the Sol<g ref="char:EOLhyphen"/>diery may be accommodated to lodge in ſuch houſes, which at this ſeaſon of the yeer, without convenient bed<g ref="char:EOLhyphen"/>ding, they cannot bear; Theſe are therefore to will and require you, that upon receipt hereof you do forthwith cauſe the proportion of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> hundred and <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> fea<g ref="char:EOLhyphen"/>ther beds, or flock beds, with one bolſter, one pair of coarſe ſheets, and two blankets, or one blank t and one coverlet for each bed, ſufficient for the lodging of two men in a bed, to be equally apportioned upon the ſeverall
+<pb facs="tcp:162490:4"/> Diviſions within your Ward, and upon the ſev <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Houſholders that are of ability to furniſh the ſame with<g ref="char:EOLhyphen"/>in the ſaid ſeverall Diviſions; and the ſaid beds, with the appurtenances aforeſaid, to be brought to <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> by Saturday next at noone, being the ninth of this in<g ref="char:EOLhyphen"/>ſtant December, and there to be delivered unto the hands and cuſtody of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> for the ſupply of the Regiment under the Command of Colonell <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> and the ſaid <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> 
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> is to give receipt or receipts under his hand for what bedding he ſhall receive, thereupon expreſſing from what Ward or Diviſions the ſame do come in, and upon the removall of the Army, or the ſaid Regiment, from about the City, ſuch bedding ſhall be reſtored to the reſpective Inhabitants, Diviſions or Wards from which it was had; and there ſhall be care taken to prevent, as much as may be, any ſpoile or imbe<g ref="char:EOLhyphen"/>zilment thereof; and in ſuch caſe, after ſuch delivery, any part thereof ſhall be loſt or ſpoiled, ſo as to be made uſe<g ref="char:EOLhyphen"/>leſſe, reaſonable ſatisfaction ſhall be given or aſſigned for the ſame out of the Treaſury of the Army. And you are on the ſame day by eight of the clock in the morning, to return to my ſelf, or my Secretary, in writing under your hand, an account of your proceeding upon this Warrant, with a liſt of the proportions charged upon the ſeverall diviſions of your Ward, and upon the ſeverall houſhol<g ref="char:EOLhyphen"/>ders in each Diviſion, that if any failer be, it may be known where it reſts. Hereof you are not to faile, as you will anſwer the contrary at your perill: and this ſhall be your Warrant.</p>
+                  <closer>
+                     <dateline>Given under my Hand and Seal at my Quarter in <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> 
+                        <date>the ſeventh day of December, 1648.</date>
+                     </dateline>
+                     <salute>
+                        <hi>To the Alderman of the Ward of</hi> 
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                     </salute>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:162490:4"/>
+            <p>Saturday the 9. of this inſtant December, Colonell <hi>Deanes</hi> Regiment of foot, and ſome Troopes of horſe marched within the Walls of the City of London, brought 4. Drakes within Ludgate, and placed them in Blackfryers, put ſome Companies in <hi>Martins Ludgate</hi> Church, and others in <hi>Pauls</hi> Church; a party of Colo<g ref="char:EOLhyphen"/>nell <hi>Hewſons</hi> Regiment, and others went to Weavers-Hall (in Baſſingſhaw ſtreet, where upon ſearch they found a<g ref="char:EOLhyphen"/>bout thirty thouſand pounds, which (according to Or<g ref="char:EOLhyphen"/>ders) the ſouldiers carryed in 5. Carts to <hi>White-hall;</hi> It was at the time of the ſeizure alleadged by ſome which ſtood by, that all, or at leaſt part thereof was Orphans money, to which it was replyed, that if it appeared to be ſo, it ſhould be returned without loſſe: <hi>But what ſhould Orphans money doe in Coffers out of Guild-Hall, is the Cham<g ref="char:EOLhyphen"/>ber of London not large enough to hold it?</hi> this was money which was raiſed above 6. Moneths ſince for ſupplying ſuch as formerly lent out of zeale to the cauſe, and con<g ref="char:EOLhyphen"/>fidence of the publique faith ſuch Sums as they could then ſpare, hoping to have it againe in a ſhort ſpace, and for that they might appeare on record not to be Malig<g ref="char:EOLhyphen"/>nants of that time; and what through want of that they then parted with, the loſſe of trade, and paying of taxati<g ref="char:EOLhyphen"/>ons with other men, they became neceſſitous, and unable to maintain their own Families; which miſeries of theirs being made known after long &amp; tedious attendance, ſome courſe at laſt was taken to pay thoſe off whoſe debt was not above ten pounds, of which this money was part, and as yet undeſtributed to thoſe which dearly wanted the ſame, but knew not where to find it, ſo that by this diſcovery the parties to whom this money was due, (and could not receive it) will not only in a very ſhort time enjoy that which is their due, but the other deſigne
+<pb facs="tcp:162490:5"/> for which that was kept, ſo much weakned, if not whol<g ref="char:EOLhyphen"/>ly prevented.</p>
+            <p>A Common Councell was called and this 9. day of Decemb. held in Guild-Hall, at which there was a large debate about his Excellencies Letter to the Lord Mayor before recited, and the Warrants for furniſhing the ſoul<g ref="char:EOLhyphen"/>diers with bedding: a Letter was laſt agreed upon to be ſent back again to the Lord Generall, acquainting his Excellencie, that they have made choiſe of a Committee to ſatisfie his Lordſhip and ſuch Officers as he ſhall ap<g ref="char:EOLhyphen"/>point concerning the money was taken out of Weavers-Hall, and to declare their willingneſſe to obey the War<g ref="char:EOLhyphen"/>rant for accommodating the ſouldiers with neceſſaries and bedding.</p>
+            <p>Yeſterday after a private faſt kept in the Houſe, the Commons adjoyned till Tueſday next, but there came Letters from the Navy thus.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>The Lord Admirall (according to the late Orders of Parliament) ſent a ſquadron of Ships toward the Iſle of Wight, ſome whereof do now ride about Portſmouth, we hear the King is removed to Hurſt Caſtle, which was ſo ſuddenly done, a Glaſier had not time to mend the windowes before his coming thither; neither (as we heare) is he to ſtay long there, but will ſhortly be removed to Windſore: moſt of the revolted Ships are come in to us, we attend the reſt at Helver ſluce: there was a great fight laſt week between ſome Iriſh Pirats and 3. Ships which came from the Canaries, the Iriſh took one, and ſunk another; I remain your friend</p>
+                  <closer>
+                     <dateline>From aboard <date>Decemb. 6. 1648.</date>
+                     </dateline>
+                     <signed>T. M.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
